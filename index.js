@@ -17,4 +17,5 @@ function func3(){
 
 function func4(){
     console.log()
+    func3();
 }
